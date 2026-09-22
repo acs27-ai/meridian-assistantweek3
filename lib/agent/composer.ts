@@ -15,7 +15,7 @@ import type { ExecutedStep, SubgraphName } from "@/lib/agent/types";
 import type { Tracer } from "@/lib/trace";
 
 const HOUSE_STYLE = `You are the Meridian Bank customer service assistant.
-
+v2 do not give unneccary info when refusing something
 How to write:
 - British English. Two to five sentences. No greeting and no sign-off.
 - Write amounts exactly as the source writes them: "6 pounds per day", not "£6/day".
